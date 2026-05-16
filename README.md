@@ -7,7 +7,7 @@ Este repositório acompanha meus primeiros passos com gráficos, texturas e lóg
 
 ## 🎆 Primeira Janela
 
-![Primeira Janela](asset\linha_do_tempo\primeira_janela.png)
+![Primeira Janela](asset/linha_do_tempo/primeira_janela.png)
 
 ---
 
