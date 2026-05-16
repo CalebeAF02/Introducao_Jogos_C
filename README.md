@@ -1,4 +1,4 @@
-# Hard Life 🎮
+# Introdução Jogos C 🎮
 
 Um projeto de jogo em **C/C++** utilizando a biblioteca [Raylib](https://www.raylib.com/).  
 Este repositório acompanha meus primeiros passos com gráficos, texturas e lógica de jogo.
@@ -7,7 +7,7 @@ Este repositório acompanha meus primeiros passos com gráficos, texturas e lóg
 
 ## 🎆 Primeira Janela
 
-![Primeira Janela](docs\linha_do_tempo\primeira_janela.png)
+![Primeira Janela](asset\linha_do_tempo\primeira_janela.png)
 
 ---
 
@@ -22,7 +22,7 @@ Este repositório acompanha meus primeiros passos com gráficos, texturas e lóg
 
 ## 📂 Estrutura do projeto
 
-- **Hard_Life/**
+- **Introducao_Jogos_C/**
     - **src/** → Código-fonte (`main.cpp`, `sistema.cpp`)
     - **include/** → Headers (`raylib.h`, `sistema.hpp`)
     - **libs/** → Bibliotecas (`libraylib.a`, `raylib.dll`)
@@ -44,8 +44,8 @@ Este repositório acompanha meus primeiros passos com gráficos, texturas e lóg
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/CalebeAF02/Hard_Life.git
-   cd Hard_Life
+   git clone https://github.com/CalebeAF02/Introducao_Jogos_C.git
+   cd Introducao_Jogos_C
 
 #### Compile com CMake:
 
@@ -56,7 +56,7 @@ Execute:
 
 #### bash
 
-./build/Hard_Life.exe
+./build/Introducao_Jogos_C.exe
 🖼️ Assets
 As imagens utilizadas estão na pasta docs/imagens/. Exemplo de carregamento no código:
 
